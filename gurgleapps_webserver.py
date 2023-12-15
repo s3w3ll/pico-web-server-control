@@ -37,7 +37,7 @@ class GurgleAppsWebserver:
         self.wlan.connect(self.wifi_ssid, self.wifi_password)
         self.html = """<!DOCTYPE html>
         <html>
-            <head> <title>GurgleApps.com Webserver</title> </head>
+            <head> <title>Swellbeing Webserver</title> </head>
             <body> <h1>Pico W</h1>
                 <p>%s</p>
             </body>
@@ -381,7 +381,7 @@ class GurgleAppsWebserver:
        <!DOCTYPE html>
         <html>
             <head>
-                <title>GurgleApps.com Webserver</title>
+                <title>Swellbeing Webserver</title>
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
                 <link href="/styles.css" rel="stylesheet">
             </head>

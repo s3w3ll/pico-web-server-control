@@ -1,7 +1,7 @@
 """
     Project: GurgleApps Webserver
     File: main.py
-    Author: GurgleApps.com
+    Author: s3w3ll
     Date: 2021-04-01
     Description: Demonstrates how to use the GurgleApps Webserver
 """
