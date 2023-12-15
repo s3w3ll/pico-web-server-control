@@ -1,4 +1,4 @@
-WIFI_SSID = "your_wifi_ssid"
-WIFI_PASSWORD = "your_wifi_password"
+WIFI_SSID = "s3w3lls"
+WIFI_PASSWORD = "marriedlife01"
 BLINK_IP = False
 BLINK_LAST_ONLY = False
